@@ -11,7 +11,7 @@ Este projeto tem como objetivo a aplicação de técnicas num dataset específic
 
 ---
 
-**Unidade Curricular:** Análise de Agrupamento e Classificação de Dados (AACD)  
+**Unidade Curricular:** Aprendizagem Automática e Ciência de Dados (AACD)  
 **Semestre:** Inverno 2025/26
 
 ---
