@@ -20,6 +20,7 @@ Este projeto tem como objetivo a aplicação de técnicas num dataset específic
 
 | Funcionalidade / Algoritmo | Estado |
 | :--- | :---: |
+| **PCA** | ✅ Concluído |
 | **Clustering** | ✅ Concluído |
 | **Tree Based Methods** | ✅ Concluído |
 | **SVM** (Support Vector Machines) | ⏳ Pendente |
