@@ -26,7 +26,7 @@ Este projeto tem como objetivo a aplicação de técnicas num dataset específic
 | **SVM** (Support Vector Machines) | ⏳ Pendente |
 | **ANN** (Artificial Neural Networks) | ⏳ Pendente |
 
-* O ficheiro ainda precisa de ser limpo
+** O ficheiro ainda precisa de ser limpo
 
 ---
 
