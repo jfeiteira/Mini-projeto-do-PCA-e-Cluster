@@ -5,3 +5,5 @@ seaborn == 0.13.2
 # mpl_toolkits  # If you have matplotlib installed, you should be able to import mpl_toolkits directly
 scikit-learn == 1.5.2
 statsmodels == 0.14.4
+tensorflow == 2.20.0
+shap
