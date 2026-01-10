@@ -22,9 +22,9 @@ Este projeto tem como objetivo a aplicação de técnicas num dataset específic
 | :--- | :---: |
 | **PCA** | ✅ Concluído |
 | **Clustering** | ✅ Concluído |
-| **Tree Based Methods** | ✅ Concluído|
+| **Tree Based Methods** | ✅ Concluído |
 | **SVM** (Support Vector Machines) | ⏳ Pendente |
-| **ANN** (Artificial Neural Networks) | ⏳ Pendente |
+| **ANN** (Artificial Neural Networks) | ✅ *Concluído |
 
 ** O ficheiro ainda precisa de ser limpo
 
