@@ -23,11 +23,9 @@ Este projeto tem como objetivo a aplicação de técnicas num dataset específic
 | **PCA** | ✅ Concluído |
 | **Clustering** | ✅ Concluído |
 | **Tree Based Methods** | ✅ Concluído |
-| **SVM** (Support Vector Machines) | ⏳ Pendente |
-| **ANN** (Artificial Neural Networks) | ✅ *Concluído |
-
-** O ficheiro ainda precisa de ser limpo
+| **SVM** (Support Vector Machines) | ✅ Concluído |
+| **ANN** (Artificial Neural Networks) | ✅ Concluído |
 
 ---
 
-*Última atualização: Dezembro 2025*
+*Última atualização: 11/01/2025*
